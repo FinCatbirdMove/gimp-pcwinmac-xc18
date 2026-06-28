@@ -1,4 +1,4 @@
-# 
+# Nativo GIMP herramientas para Mac OS | Código abierto GIMP herramientas para PC Windows. Con sello de clonar y objetos inteligentes — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
